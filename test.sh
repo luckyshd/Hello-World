@@ -24,3 +24,5 @@ echo "this is first commit under luckyshd user in master branch, as a collaborat
 echo "test!"
 
 echo "add line in github.com"
+
+echo " test on Mac"

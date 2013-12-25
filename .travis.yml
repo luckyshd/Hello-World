@@ -1,4 +1,4 @@
 script: ./test.sh
-echo ""
-echo "test02.sh"
+script: echo ""
+script: echo "test02.sh"
 script: ./test02.sh

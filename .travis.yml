@@ -7,7 +7,7 @@ script:
   - echo "this is a test"; 
   - echo "this is another test within one && " 
 
-before_script:
+after_script:
   - echo ""
   - echo "this is a after_scipt test"
   - echo ""

@@ -1,6 +1,4 @@
-script: ./test.sh  && echo "this is a test" 
-&& echo "this is a test" 
-
+script: ./test.sh  && echo "this is a test"
 
 
 

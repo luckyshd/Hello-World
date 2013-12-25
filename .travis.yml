@@ -2,7 +2,10 @@ before_script:
   - echo "this is a before_scipt test"
   - echo ""
   
-script: ./test.sh  && echo ""; echo "this is a test"; echo "this is another test within one && " 
+script:
+  - ./test.sh  && echo ""; 
+  - echo "this is a test"; 
+  - echo "this is another test within one && " 
 
 before_script:
   - echo ""

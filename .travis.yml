@@ -1,5 +1,5 @@
--echo "test begin"
-script: ./test.sh
+
+script: ./test.sh  && echo "this is a test"
 
 
 

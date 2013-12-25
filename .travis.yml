@@ -1,4 +1,4 @@
-script: ./test.sh
+-echo "test begin"
 script: ./test.sh
 
 

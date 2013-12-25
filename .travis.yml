@@ -1,3 +1,5 @@
+
+script: chmod u+x ./*
 script: ./test.sh
 script: echo ""
 script: echo "test02.sh"

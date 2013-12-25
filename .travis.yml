@@ -1,0 +1,1 @@
+script: ./test.sh  && ./test02.sh

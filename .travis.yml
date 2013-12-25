@@ -1,3 +1,4 @@
 script: ./test.sh
+script: ./test.sh
 
 

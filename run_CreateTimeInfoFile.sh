@@ -6,6 +6,8 @@ date
 
 sleep 180
 
+echo "sleep 180"
+
 Date=`date`
 
 echo $Date

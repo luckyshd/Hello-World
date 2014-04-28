@@ -1,6 +1,7 @@
 #！/bin/bash
 
 
+echo ""
 date
 
 sleep 5

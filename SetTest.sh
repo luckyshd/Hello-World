@@ -16,4 +16,5 @@ EndTime=`date`
 
 
 echo "StartTime is    ${StartTime}">>${SetResultFile}
+
 echo "EndTime   is    ${EndTime}">>${SetResultFile}

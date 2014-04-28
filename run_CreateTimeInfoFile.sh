@@ -4,7 +4,7 @@
 echo ""
 date
 
-sleep 5
+sleep 180
 
 Date=`date`
 

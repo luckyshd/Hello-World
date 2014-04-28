@@ -6,6 +6,7 @@ script:
   - ./test.sh  && echo ""; 
   - echo "this is a test"; 
   - echo "this is another test within one && " 
+  - echo shihuade
 
 after_script:
   - echo ""

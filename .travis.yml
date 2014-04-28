@@ -3,10 +3,8 @@ before_script:
   - echo ""
   
 script:
-  - ./test.sh  && echo ""; 
-  - echo "this is a test"; 
-  - echo "this is another test within one && " 
-  - echo shihuade
+  - echo 123 ;echo 456
+  -
 
 after_script:
   - echo ""

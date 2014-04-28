@@ -4,7 +4,7 @@ before_script:
   - chmod u+x run_CreateTimeInfoFile.sh
   
 script:
-  -  ./run_CreateTimeInfoFile.sh
+  -  ./run_Main.sh
   -
 
 after_script:

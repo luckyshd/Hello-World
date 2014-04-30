@@ -23,6 +23,6 @@ echo $Date>>Date.info
 cat Date.info
 
 
-exit 1
+exit 0
 
 

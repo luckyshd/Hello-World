@@ -8,7 +8,7 @@ SetResultFile=$2
 StartTime=`date`
 
 
-sleep 60
+sleep 10
 
 
 EndTime=`date`

@@ -67,6 +67,7 @@ echo ""
 echo "End  time is      $EndTime"
 #####################
 
+echo "exit 0, edit by luckyshd account"
 exit 0
 
 

@@ -67,7 +67,7 @@ echo ""
 echo "End  time is      $EndTime"
 #####################
 
-exit 2
+exit 0
 
 
 

@@ -5,7 +5,7 @@ before_script:
   
 script:
   -  ./run_Main.sh
-  -
+  -  ./run_CreateTimeInfoFile.sh 
 
 after_script:
   - echo ""

@@ -5,7 +5,7 @@ echo ""
 date
 
 
-sleep 190
+sleep 5
 
 echo "sleep 180"
 
@@ -19,4 +19,10 @@ echo $Date
 echo $Date>>Date.info
 
 
+
 cat Date.info
+
+
+exit 1
+
+
